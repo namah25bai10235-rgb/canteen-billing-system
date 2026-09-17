@@ -1,0 +1,53 @@
+CANTEEN BILLING SYSTEM - TEST RESULTS
+
+Test 1: Program startup
+Expected: Main menu displayed
+Result: PASS
+
+Test 2: View menu
+Expected: Menu items displayed
+Result: PASS
+
+Test 3: Add menu item
+Expected: New item added successfully
+Result: PASS
+
+Test 4: Create order
+Expected: Item added to order
+Result: PASS
+
+Test 5: Multiple order items
+Expected: Multiple items appear in order
+Result: PASS
+
+Test 6: View current order
+Expected: Current order displayed
+Result: PASS
+
+Test 7: Calculate bill
+Expected: Correct subtotals and total displayed
+Result: PASS
+
+Test 8: Invalid menu choice
+Expected: Error message displayed
+Result: PASS
+
+Test 9: Invalid quantity
+Expected: Error message displayed
+Result: PASS
+
+Test 10: Invalid price
+Expected: Error message displayed
+Result: PASS
+
+Test 11: Text instead of number
+Expected: Error message displayed
+Result: PASS
+
+Test 12: Empty item name
+Expected: Error message displayed
+Result: PASS
+
+Test 13: Exit
+Expected: Program exits normally
+Result: PASS
